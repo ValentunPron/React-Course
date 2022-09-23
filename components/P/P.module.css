@@ -1,0 +1,21 @@
+.p {
+	margin: 0px;
+}
+
+.small {
+	font-size: 14px;
+	line-height: 24px;
+	color: var(--black);
+}
+
+.medium {
+	font-size: 16px;
+	line-height: 24px;
+	color: var(--black);
+}
+
+.big {
+	font-size: 18px;
+	line-height: 29px;
+	color: var(--black);
+}
